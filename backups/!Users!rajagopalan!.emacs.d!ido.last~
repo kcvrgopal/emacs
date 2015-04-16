@@ -1,0 +1,29 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/rajagopalan/.emacs.d/" . "customizations/")
+ ("/Users/rajagopalan/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/rajagopalan/.emacs.d/customizations/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "ui.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/rajagopalan/.emacs.d/customizations/" (21808 16424 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/rajagopalan/.emacs.d/" (21808 16460 0 0) "themes/" "README.md" "places" "init.el" "ido.last" "elpa/" "customizations/" "backups/" "auto-save-list/" ".smex-items" ".recentf" "../" "./")
+
+ ("/Users/rajagopalan/" (21808 15886 0 0) "WebstormProjects/" "Samsung/" "PycharmProjects/" "Public/" "Pictures/" "PhpstormProjects/" "Onedrive/" "node_modules/" "Ngrok/" "Music/" "Movies/" "mongodb-osx-x86_64-2.6.7/" "Local.spf" "local db.spf" "Library/" "Keystore/" "eclipse/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Box Sync/" "Applications/" "AndroidStudioProjects/" "android-sdk-macosx/" ".viminfo" ".Trash/" ".thumbnails/" ".subversion/" ".ssh/" ".rstudio-desktop/" ".rnd" ".Rhistory" ".RData" ".putty/" ".ovftool.ssldb" ".npmrc" ".npm/" ".node-gyp/" ".ngrok" ".mysql_history" ".mplayer/" ".matplotlib/" ".m2/" ".lein/" ".jude/" ".gradle/" ".gitconfig" ".emacs.d/" ".DS_Store" ".dropbox/" ".cups/" ".config/" ".CFUserTextEncoding" ".bash_history" ".atom/" ".astah/" ".android/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
